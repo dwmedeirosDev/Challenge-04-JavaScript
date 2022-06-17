@@ -24,12 +24,26 @@
 // }
 // data("David", "28 anos", "Rock & Eletrônica");
 
+// OU
+
+// function data(name,age,style){
+//     console.log (`Meu nome é ${name}, tenho ${age}, meu estilo musical é ${style}`);
+// }
+// data("David", "28 anos", "Rock & Eletrônica");
+
 
 
 // ##### Exercício 4 #####
 
 // function data(movie, music){
 //     console.log(movie, music);
+// }
+// data("Posto de combate", "Carry on Wayward Son");
+
+// OU
+
+// function data(movie, music){
+//     console.log(`Filme: ${movie}, Música ${music}`);
 // }
 // data("Posto de combate", "Carry on Wayward Son");
 
